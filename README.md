@@ -103,7 +103,7 @@ Business Insights
 
 # 📊 Dashboard Preview
 
-![Executive Dashboard](project_screenshots/PowerBI/dashboard.png)
+![Executive Dashboard](project_screenshots/Powerbi/dashboard.png)
 
 ---
 
